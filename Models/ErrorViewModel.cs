@@ -8,4 +8,5 @@ public class ErrorViewModel
 
     public int Todo { get; set; }
     public int MyProperty { get; set; }
+    public int Dotko { get; set; }
 }
